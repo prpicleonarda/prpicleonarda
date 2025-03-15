@@ -3,6 +3,7 @@
 - 🌱 I'm learning about web and mobile app development, DEVOPS and security.
 - 💬 Ask me about our upcoming projects!
 
+- 💫 Proud member of Aquilia Codes 💫
   
 
 # 💻 Tech Stack:
